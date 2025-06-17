@@ -2,8 +2,8 @@
 
 A powerful desktop OCR application built with PyQt6 that provides advanced text extraction capabilities from images with real-time preview and extensive customization options.
 
-![Application Preview](![Screenshot (9)](https://github.com/user-attachments/assets/be9e0f3c-22e1-48a0-a362-561e0cf4e2b1)
-)
+[Screenshot (9)](https://github.com/user-attachments/assets/be9e0f3c-22e1-48a0-a362-561e0cf4e2b1)
+
 
 ## Features
 
