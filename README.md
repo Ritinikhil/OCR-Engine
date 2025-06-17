@@ -43,7 +43,7 @@ pyenchant
 1. Clone the repository:
 ```bash
 https://github.com/Ritinikhil/OCR-Engine.git
-cd unity-ocr-app
+cd OCR-Engine
 ```
 
 2. Install dependencies:
