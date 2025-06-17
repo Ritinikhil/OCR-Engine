@@ -2,7 +2,8 @@
 
 A powerful desktop OCR application built with PyQt6 that provides advanced text extraction capabilities from images with real-time preview and extensive customization options.
 
-![Application Preview](app_preview.png)
+![Application Preview](![Screenshot (9)](https://github.com/user-attachments/assets/be9e0f3c-22e1-48a0-a362-561e0cf4e2b1)
+)
 
 ## Features
 
@@ -41,7 +42,7 @@ pyenchant
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ritinikhil/unity-ocr-app.git
+https://github.com/Ritinikhil/OCR-Engine.git
 cd unity-ocr-app
 ```
 
